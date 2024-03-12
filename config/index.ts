@@ -4,7 +4,7 @@ export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
   title: 'SnapSpot Instant Location Finder',
-  description: 'App description',
+  description: 'Use our  SnapSpot app to find locations from your photos! Simply upload a picture and get instant results. Easy and accurate location identification at your fingertips!',
   copyright: '',
   privacy_policy: '',
   default_language: 'eng-US',
